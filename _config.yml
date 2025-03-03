@@ -1,7 +1,7 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "A5trid's blog"
+description: "A5trid的魔法世界"
 
-avatar: https://pianfan.github.io/images/avatar.png
+avatar: https://www.a5trid.com/wp-content/uploads/2025/01/51B8E28CA9F778E96800F1DB9607E331.jpg
 favicon: https://pianfan.github.io/images/favicon.ico
 
 navigation:
@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: 2583405942@qq.com
   facebook:
-  github: pianfan
-  rss: # just type anything here for a working RSS icon
+  github: A5trid
+  rss: 
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: 
 
-url: https://pianfan.github.io
+url: https://A5trid.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
